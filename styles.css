@@ -72,7 +72,7 @@
   width: 100%;
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 1200px) {
   .overlay {
     padding: 24px 48px;
   }
