@@ -72,7 +72,7 @@
   width: 100%;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1400px) {
   .overlay {
     padding: 24px 48px;
   }
@@ -88,7 +88,7 @@
   gap: 96px;
 }
 
-@media (min-width: 1250px) {
+@media (min-width: 1200px) {
   .longread {
     grid-template-areas:
       "b b s"
